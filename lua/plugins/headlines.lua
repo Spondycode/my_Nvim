@@ -25,13 +25,13 @@ return {
       markdown = {
         -- If set to false, headlines will be a single line and there will be no
         -- "fat_headline_upper_string" and no "fat_headline_lower_string"
-        fat_headlines = true,
+        -- fat_headlines = true,
         --
         -- Lines added above and below the header line makes it look thicker
         -- "lower half block" unicode symbol hex:2584
         -- "upper half block" unicode symbol hex:2580
-        fat_headline_upper_string = "▄",
-        fat_headline_lower_string = "▀",
+        -- fat_headline_upper_string = "▄",
+        -- fat_headline_lower_string = "▀",
         --
         -- You could add a full block if you really like it thick ;)
         -- fat_headline_upper_string = "█",
